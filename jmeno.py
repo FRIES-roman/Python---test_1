@@ -1,0 +1,5 @@
+
+jmeno = "Roman"
+
+
+print(jmeno)
