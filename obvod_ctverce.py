@@ -1,4 +1,4 @@
-# Funkce pro výpočet obvodu čtverce
+
 def obvod_ctverce(strana):
     
     return 4 * strana 
